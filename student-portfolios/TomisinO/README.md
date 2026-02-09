@@ -15,10 +15,11 @@
 
 ## 🖼️ Portfolio Images
 
-### Fvorite Wrestler 
+### Favourite Wrestler 
 ![WWE](becky_lynch.jpg )
 
 ### Personal Photo
 ![Person Selfie on North campus](tomisin.jpeg)
+
 
 
